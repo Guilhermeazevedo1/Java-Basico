@@ -40,7 +40,7 @@ public class FuncaoStrings {
         //-------------------------- USADO PARA BUSCAR -----------------------------
 
         //o indexOf serve para saber a primeira posição do index da String ou char que você colocou
-        int indexOf = original.indexOf("bc");
+        int indexOf = original.indexOf("b");
 
         //o lastIndexOf serve para saber a ultima posição do index da String ou char que você colocou
         int lastIndexOf = original.lastIndexOf("bc");

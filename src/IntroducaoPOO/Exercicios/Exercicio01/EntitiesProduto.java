@@ -1,4 +1,4 @@
-package IntroducaoPOO.Exercicio;
+package IntroducaoPOO.Exercicios.Exercicio01;
 
 public class EntitiesProduto {
     public String name;

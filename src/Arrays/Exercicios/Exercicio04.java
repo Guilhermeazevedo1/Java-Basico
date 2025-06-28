@@ -5,6 +5,9 @@ import java.util.Scanner;
 
 public class Exercicio04 {
     public static void main(String[] args) {
+        //Faça um programa que leia N números inteiros e armazene-os em um vetor. Em seguida, mostre na
+        //tela todos os números pares, e também a quantidade de números pares.
+
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
         System.out.println("Informe quantos números vão ser inseridos: ");
